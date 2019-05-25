@@ -1,3 +1,4 @@
-Dog in hotfix environment
+Dog in Production environment
 Woo woo!!!
----fix the broken email address---
+---fixed the broken email address---
+---finished the new footer [issue 53]--- 
