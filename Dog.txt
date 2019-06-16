@@ -1,4 +1,2 @@
-Dog in Production environment
-Woo woo!!!
----fixed the broken email address---
----finished the new footer [issue 53]--- 
+hi this is a new Dog
+And this is for the purpose of copying file from local to eclipse
